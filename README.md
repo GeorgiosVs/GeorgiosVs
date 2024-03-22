@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgiosVs
 - 👀 I’m interested in learn to solve problems :P
-- 🌱 I’m currently learning C / ++
+- 🌱 I’m currently learning C / C++
 <!-- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me info@giwrgosvassiou.com
 <!-- 😄 Pronouns: ...-->
