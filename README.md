@@ -25,8 +25,7 @@ APIs Integration, HTTP Requests, Frameworks
 ---
 
 ### 📬 Contact Me
-🌍 Website: [giwrgosvassiou.com](https://giwrgosvassiou.com) | ✉️ Email: [info@giwrgosvassiou.com](mailto:info@giwrgosvassiou.com)  
-![Visitor Count](https://komarev.com/ghpvc/?username=GeorgiosVs&style=flat&color=blue)
+🌍 Website: [giwrgosvassiou.com](https://giwrgosvassiou.com) | ✉️ Email: [info@giwrgosvassiou.com](mailto:info@giwrgosvassiou.com)      |  ![Visitor Count](https://komarev.com/ghpvc/?username=GeorgiosVs&style=flat&color=blue)
 
 
 <!---
