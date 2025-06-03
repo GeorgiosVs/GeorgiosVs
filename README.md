@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Georgios!
+# 👋 Hi, I’m Georgios Vassiou
 
-I'm from Greece 🇬🇷 and currently learning programming to build useful and fun things. 🚀  
-I love exploring **back-end development** and diving into **modern technologies**! 😊
+> 🚀 Aspiring Back-End Developer | 🧠 Learning-driven | 🤖 Cybertron dreamer
+
+---
+### 🧠 About Me
+I enjoy solving problems and building useful things. I'm currently focused on **back-end development** and **modern web technologies**, dreaming to one day code my way to **Cybertron**.
 
 ---
 
