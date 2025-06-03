@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeorgiosVs
-- 👀 I’m interested in learning to solve problems :P
+- 👀 I’m interested in learning problem-solving skills
 - 🌱 I’m currently learning C / C++
 - :earth_asia: My website https://giwrgosvassiou.com
 - 📫 How to reach me info@giwrgosvassiou.com
