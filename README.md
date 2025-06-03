@@ -1,53 +1,34 @@
-# 👋 Hey there, I’m Georgios Vassiou!
+# 👋 Hi, I’m Georgios Vassiou
 
-> 🧠 Aspiring Back-End Developer | 🚀 Passionate about learning | 🤖 Future Cybertron Engineer
-
----
-
-## 🧠 About Me
-
-- 🔍 I love solving problems and building useful things.
-- 🌱 Currently sharpening my skills in modern back-end development.
-- 🧩 Strong interest in clean code, scalable systems, and automation.
-- 🛠️ Dream goal? Build my own **Cybertron** planet one day!
+> 🧠 Aspiring Back-End Developer | 🚀 Learning-driven | 🤖 Cybertron dreamer
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:**  
-`SQL` `PHP` `C#` `Java` `JavaScript` `HTML` `CSS`
-
-**Frameworks & Tools:**  
-`Spring Boot` `React` `JPA` `Hibernate` `ORM` `REST APIs` `HTTP Requests`
+### 🧠 About Me
+🧩 I enjoy solving problems and building useful things.  
+🌱 Currently focused on back-end dev & modern web tech.  
+☕ I turn coffee into code — and maybe one day into Cybertron.
 
 ---
 
-## 📚 Currently Learning
-
-- 🔄 APIs Integration & HTTP Requests  
-- 🧱 Frameworks (Spring Boot, React, and more)  
-- 🔧 Back-end design patterns and best practices
+### 🛠 Tech Stack
+`Java` `Spring Boot` `C#` `PHP` `SQL` `JavaScript` `React`  
+`HTML` `CSS` `REST APIs` `HTTP Requests` `JPA` `Hibernate` `ORM`
 
 ---
 
-## 🌐 Find Me Online
-
-- 🔗 Website: [giwrgosvassiou.com](https://giwrgosvassiou.com)  
-- 📫 Email: [info@giwrgosvassiou.com](mailto:info@giwrgosvassiou.com)
+### 📚 Learning Now
+→ APIs Integration • HTTP Requests • Frameworks
 
 ---
 
-## ⚡ Fun Fact
-
-> I might not be a Transformer yet...  
-> ...but I’m already transforming coffee into code ☕💻
+### 📬 Contact
+🌍 [giwrgosvassiou.com](https://giwrgosvassiou.com)  
+✉️ [info@giwrgosvassiou.com](mailto:info@giwrgosvassiou.com)
 
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=GeorgiosVs&style=flat&color=blue)
-
-
 
 <!---
 GeorgiosVs/GeorgiosVs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
