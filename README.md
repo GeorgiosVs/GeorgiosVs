@@ -5,7 +5,7 @@
 ### 🧠 About Me
 🧩 I enjoy solving problems and building useful things.  
 🌱 Currently focused on back-end dev & modern web tech.  
-☕ I turn coffee into code — and maybe one day into Cybertron.
+🤖 One day I plan to code my way to Cybertron — until then, I’m debugging Earth.
 
 ### 🛠 Tech Stack
 `Java` `Spring Boot` `C#` `PHP` `SQL` `JavaScript` `React`  
