@@ -23,6 +23,14 @@
 
 ---
 
+## 📚 Currently Learning
+
+- 🔄 APIs Integration & HTTP Requests  
+- 🧱 Frameworks (Spring Boot, React, and more)  
+- 🔧 Back-end design patterns and best practices
+
+---
+
 ## 🌐 Find Me Online
 
 - 🔗 Website: [giwrgosvassiou.com](https://giwrgosvassiou.com)  
@@ -34,6 +42,11 @@
 
 > I might not be a Transformer yet...  
 > ...but I’m already transforming coffee into code ☕💻
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=GeorgiosVs&style=flat&color=blue)
+
 
 
 <!---
