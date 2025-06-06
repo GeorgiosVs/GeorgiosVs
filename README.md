@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me
-I enjoy solving problems and building useful things. I'm currently focused on **back-end development** and **modern web technologies**, dreaming to one day code my way to **Cybertron**.
+I enjoy solving problems and building useful things. I'm currently focused on **back-end development** and **modern web technologies**, dreaming to one day to create my own Cyber Planet.
 
 ---
 
