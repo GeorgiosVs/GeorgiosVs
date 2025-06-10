@@ -28,11 +28,6 @@ Exploring APIs, HTTP Requests, and Frameworks. 🧩
 🌍 Website: [giwrgosvassiou.com](https://giwrgosvassiou.com) | ✉️ Email: [info@giwrgosvassiou.com](mailto:info@giwrgosvassiou.com)
 
 
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=GeorgiosVs&style=flat&color=blue)
-
-
 <!---
 GeorgiosVs/GeorgiosVs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
