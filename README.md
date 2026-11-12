@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Georgios Vassiou
 
-> 🚀 Aspiring Back-End Developer | 🧠 Learning-driven | 🤖 Cybertron dreamer
+🤖 Cybertron dreamer
 
 ---
 
